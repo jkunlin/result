@@ -1,0 +1,11 @@
+args = ./MANN/MANN_a27.clq
+|E| = 70551  |V| = 378 p = 0.990148
+step = 0 current max. clique size = 1
+step = 124 current max. clique size = 125
+step = 258 current max. clique size = 126
+
+Size = 126
+Number of steps = 49439
+Time = 2
+Time (precise) = 1.86
+

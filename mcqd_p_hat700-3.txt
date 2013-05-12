@@ -1,0 +1,36 @@
+args = ./p_hat/p_hat700-3.clq
+|E| = 183010  |V| = 700 p = 0.748048
+step = 0 current max. clique size = 1
+step = 35 current max. clique size = 36
+step = 505 current max. clique size = 37
+step = 1505 current max. clique size = 38
+step = 1767 current max. clique size = 39
+step = 1887 current max. clique size = 40
+step = 2156 current max. clique size = 41
+step = 3633 current max. clique size = 42
+step = 8380 current max. clique size = 43
+step = 30346 current max. clique size = 44
+step = 69465 current max. clique size = 45
+step = 69545 current max. clique size = 46
+step = 75233 current max. clique size = 47
+step = 290047 current max. clique size = 48
+step = 290805 current max. clique size = 49
+step = 348091 current max. clique size = 50
+step = 627344 current max. clique size = 51
+step = 855604 current max. clique size = 52
+step = 1478719 current max. clique size = 53
+step = 1665168 current max. clique size = 54
+step = 6461437 current max. clique size = 55
+step = 8396733 current max. clique size = 56
+step = 19499930 current max. clique size = 57
+step = 27446442 current max. clique size = 58
+step = 63936055 current max. clique size = 59
+step = 133966768 current max. clique size = 60
+step = 197704923 current max. clique size = 61
+step = 276889414 current max. clique size = 62
+
+Size = 62
+Number of steps = 292993278
+Time = 3056
+Time (precise) = 3050.37
+

@@ -1,0 +1,16 @@
+args = ./brock/brock800_2.clq
+|E| = 208166  |V| = 800 p = 0.651333
+R.size() = 2step = 14 current max. clique size = 15
+R.size() = 1step = 21 current max. clique size = 16
+R.size() = 2step = 137 current max. clique size = 17
+R.size() = 2step = 6655 current max. clique size = 18
+R.size() = 1step = 107153 current max. clique size = 19
+R.size() = 1step = 6708644 current max. clique size = 20
+R.size() = 4step = 47140785 current max. clique size = 21
+R.size() = 7step = 108153018 current max. clique size = 24
+Maximum clique: 28 105 278 285 290 394 408 449 496 498 515 571 579 583 600 658 731 739 757 772 773 774 783 784 
+Size = 24
+Number of steps = 598045306
+Time = 3171
+Time (precise) = 3165.95
+

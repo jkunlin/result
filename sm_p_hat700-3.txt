@@ -1,0 +1,40 @@
+args = ./p_hat/p_hat700-3.clq
+|E| = 183010  |V| = 700 p = 0.748048
+step = 29 current max. clique size = 30
+R.size() = 5step = 50 current max. clique size = 31
+R.size() = 5step = 78 current max. clique size = 32
+step = 114 current max. clique size = 33
+R.size() = 1step = 129 current max. clique size = 34
+step = 349 current max. clique size = 35
+step = 768 current max. clique size = 36
+R.size() = 1step = 908 current max. clique size = 37
+R.size() = 1step = 960 current max. clique size = 38
+R.size() = 2step = 1312 current max. clique size = 39
+step = 1604 current max. clique size = 41
+step = 1653 current max. clique size = 42
+R.size() = 3step = 4881 current max. clique size = 43
+R.size() = 2step = 4924 current max. clique size = 44
+R.size() = 1step = 11631 current max. clique size = 45
+R.size() = 1step = 22142 current max. clique size = 46
+R.size() = 1step = 67115 current max. clique size = 47
+step = 138218 current max. clique size = 48
+step = 138261 current max. clique size = 49
+step = 143994 current max. clique size = 50
+R.size() = 2step = 144156 current max. clique size = 51
+R.size() = 3step = 148106 current max. clique size = 52
+R.size() = 1step = 148175 current max. clique size = 53
+R.size() = 1step = 240623 current max. clique size = 54
+R.size() = 2step = 375043 current max. clique size = 55
+R.size() = 1step = 1030351 current max. clique size = 56
+R.size() = 2step = 2045417 current max. clique size = 57
+R.size() = 1step = 2094325 current max. clique size = 58
+step = 7829565 current max. clique size = 59
+step = 20261320 current max. clique size = 60
+step = 35625942 current max. clique size = 61
+step = 53552307 current max. clique size = 62
+Maximum clique: 2 5 6 7 9 10 11 17 18 20 21 22 24 27 28 32 33 34 38 39 40 41 44 45 47 48 49 50 54 56 57 61 62 65 66 67 69 70 74 77 79 86 88 90 93 95 97 101 102 119 123 125 126 133 135 136 152 167 170 190 193 301 
+Size = 62
+Number of steps = 69848881
+Time = 1088
+Time (precise) = 1086.77
+

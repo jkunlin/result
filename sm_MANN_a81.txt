@@ -1,0 +1,4 @@
+args = ./MANN/MANN_a81.clq
+|E| = 5506380  |V| = 3321 p = 0.998825
+step = 1097 current max. clique size = 1098
+step = 2437 current max. clique size = 1100

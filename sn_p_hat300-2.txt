@@ -1,0 +1,16 @@
+args = ./p_hat/p_hat300-2.clq
+|E| = 21928  |V| = 300 p = 0.488919
+step = 14 current max. clique size = 15
+R.size() = 1step = 29 current max. clique size = 18
+step = 62 current max. clique size = 19
+R.size() = 2step = 164 current max. clique size = 20
+step = 314 current max. clique size = 21
+R.size() = 1step = 484 current max. clique size = 23
+step = 1225 current max. clique size = 24
+R.size() = 3step = 3497 current max. clique size = 25
+Maximum clique: 4 21 30 38 40 44 48 49 56 76 139 149 153 159 174 190 199 205 252 259 270 273 290 293 296 
+Size = 25
+Number of steps = 3563
+Time = 0
+Time (precise) = 0.02
+

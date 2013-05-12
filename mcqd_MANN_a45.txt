@@ -1,0 +1,13 @@
+args = ./MANN/MANN_a45.clq
+|E| = 533115  |V| = 1035 p = 0.9963
+step = 0 current max. clique size = 1
+step = 341 current max. clique size = 342
+step = 724 current max. clique size = 343
+step = 1090 current max. clique size = 344
+step = 69556 current max. clique size = 345
+
+Size = 345
+Number of steps = 4647163
+Time = 1196
+Time (precise) = 1194.75
+

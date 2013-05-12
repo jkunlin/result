@@ -1,0 +1,14 @@
+args = ./p_hat/p_hat300-1.clq
+|E| = 10933  |V| = 300 p = 0.243768
+step = 0 current max. clique size = 1
+step = 3 current max. clique size = 4
+step = 8 current max. clique size = 5
+step = 13 current max. clique size = 6
+step = 25 current max. clique size = 7
+step = 1417 current max. clique size = 8
+
+Size = 8
+Number of steps = 2159
+Time = 0
+Time (precise) = 0
+

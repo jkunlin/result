@@ -1,0 +1,13 @@
+args = ./p_hat/p_hat700-1.clq
+|E| = 60999  |V| = 700 p = 0.249332
+R.size() = 3step = 6 current max. clique size = 7
+R.size() = 3step = 78 current max. clique size = 8
+R.size() = 1step = 478 current max. clique size = 9
+R.size() = 1step = 1788 current max. clique size = 10
+step = 16177 current max. clique size = 11
+Maximum clique: 19 21 29 30 31 35 40 57 75 85 169 
+Size = 11
+Number of steps = 17426
+Time = 0
+Time (precise) = 0.09
+
