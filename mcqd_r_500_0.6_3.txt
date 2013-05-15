@@ -1,0 +1,16 @@
+args = mytest.clq
+|E| = 74709  |V| = 500 p = 0.59887
+step = 0 current max. clique size = 1
+step = 9 current max. clique size = 10
+step = 14 current max. clique size = 12
+step = 50 current max. clique size = 13
+step = 1188 current max. clique size = 14
+step = 1900 current max. clique size = 15
+step = 29796 current max. clique size = 16
+step = 1986672 current max. clique size = 17
+
+Size = 17
+Number of steps = 9200398
+Time = 22
+Time (precise) = 21.49
+

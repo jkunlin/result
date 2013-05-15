@@ -1,0 +1,18 @@
+args = mytest.clq
+|E| = 35912  |V| = 300 p = 0.800713
+R.size() = 1step = 19 current max. clique size = 20
+R.size() = 1step = 31 current max. clique size = 21
+R.size() = 1step = 42 current max. clique size = 22
+R.size() = 1step = 153 current max. clique size = 23
+step = 3336 current max. clique size = 24
+R.size() = 1step = 3405 current max. clique size = 25
+R.size() = 2step = 10263 current max. clique size = 26
+R.size() = 2step = 148239 current max. clique size = 27
+R.size() = 1step = 1590996 current max. clique size = 28
+R.size() = 2step = 34734469 current max. clique size = 29
+Maximum clique: 10 11 23 69 72 76 85 98 108 109 114 116 131 134 153 178 181 193 196 209 218 232 246 247 258 269 281 291 295 
+Size = 29
+Number of steps = 38276989
+Time = 155
+Time (precise) = 154.74
+
